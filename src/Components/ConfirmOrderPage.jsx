@@ -14,6 +14,7 @@ const ConfirmOrderPage = ({ products }) => {
     alert("There are no products to place an order")
    }else{
     alert("You have successfully placed the order!")
+    window.location.href = "/"
    }
   };
 
@@ -35,9 +36,6 @@ const ConfirmOrderPage = ({ products }) => {
       <button onClick={handlePlaceOrder} className="placeOrderButton">
         Place Order
       </button>
-      <Link to="/">
-        <button className="homeButton">Go to Home Page</button>
-      </Link>
     </div>
   );
 };
