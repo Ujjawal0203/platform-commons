@@ -1,0 +1,125 @@
+.nav{
+   display: flex;
+    justify-content: space-evenly;
+    padding: 3%;
+    box-shadow: 2px 2px 5px 5px rgb(143, 141, 141);
+    color: rgb(236, 155, 62);
+    background-color: rgb(213, 218, 218);
+    
+}
+
+
+/* Container Styles */
+div {
+    text-align: center;
+    margin:auto;
+    max-width: 1200px;
+    padding: 20px;
+    /* margin: auto; */
+  }
+  
+  /* Header Styles */
+  h1 {
+    margin-bottom: 30px;
+  }
+  
+  
+  .cart-icon-a {
+    text-align: right;
+    margin-top: -120px;
+    margin-bottom: 70px;
+  }
+  
+  .cart-icon-a a {
+    text-decoration: none;
+    background-color: #fc0606;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.2s;
+  }
+  
+  .cart-icon-a a:hover {
+    background-color: #740e0e;
+  }
+  
+  
+  .product-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+  }
+  
+  
+  .product-card {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+  }
+  
+  /* .product-card:hover {
+    transform: translateY(-5px);
+  } */
+  
+  .product-name {
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .product-image {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .add-to-cart-button {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 10px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+    display: block;
+    width: 100%;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .add-to-cart-button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .product-list {
+      grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
+    }
+  
+    .product-card {
+      padding: 10px;
+    }
+  
+    .product-name {
+      font-size: 18px;
+    }
+  
+    .product-details {
+      font-size: 14px;
+    }
+  
+    .add-to-cart-button {
+      padding: 8px 0;
+      font-size: 16px;
+    }
+  }
+  

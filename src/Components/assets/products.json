@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "image": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmVnZXRhYmxlc3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+    "weight": "1 Kg",
+    "price": 500
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "image": "https://img.freepik.com/premium-photo/shopping-bag-full-fresh-fruits-vegetables-with-assorted-ingredients_8087-2232.jpg",
+    "weight": "1 Kg",
+    "price": 100
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "image": "https://st.depositphotos.com/1063437/2337/i/450/depositphotos_23373292-stock-photo-groceries-in-wicker-basket-including.jpg",
+    "weight": "0.5 Kg",
+    "price": 300
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "image": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmVnZXRhYmxlc3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+    "weight": "1 Kg",
+    "price": 50
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "image": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmVnZXRhYmxlc3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+    "weight": "1 Kg",
+    "price": 500
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "image": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmVnZXRhYmxlc3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+    "weight": "1 Kg",
+    "price": 500
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "image": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmVnZXRhYmxlc3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+    "weight": "1 Kg",
+    "price": 500
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "image": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmVnZXRhYmxlc3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+    "weight": "1 Kg",
+    "price": 500
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "image": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmVnZXRhYmxlc3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+    "weight": "1 Kg",
+    "price": 500
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "image": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmVnZXRhYmxlc3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+    "weight": "1 Kg",
+    "price": 500
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "image": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmVnZXRhYmxlc3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+    "weight": "1 Kg",
+    "price": 500
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "image": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmVnZXRhYmxlc3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+    "weight": "1 Kg",
+    "price": 500
+  }
+  
+]
